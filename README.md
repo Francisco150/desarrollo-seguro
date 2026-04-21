@@ -4,7 +4,7 @@
 
 Este software es una utilidad técnica desarrollada en Python diseñada para procesar listas de texto y extraer la cadena con mayor número de caracteres de forma eficiente.
 
-### Descripción
+### Descripción 
 El programa recibe una lista de palabras, valida mediante lógica interna que los datos sean correctos y devuelve la cadena más larga.
 
 En caso de existir varias palabras con la misma longitud máxima, el algoritmo aplica una ordenación alfabética para determinar el resultado final.
