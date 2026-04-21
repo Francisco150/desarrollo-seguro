@@ -1,0 +1,19 @@
+# Archivos de log
+*.log
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+env/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Bases de datos locales
+*.sqlite3
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
